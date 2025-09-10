@@ -22,4 +22,21 @@
 ---
 
 ## Suggested Shortcut Naming
-For best results, use a neutral or system-like name to make the
+For best results, use a neutral or system-like name to make the shortcut less conspicuous. Examples:  
+- **System Sync Service**  
+- **Diagnostics Utility**  
+- **MediaSync**  
+
+---
+
+## Screenshots
+### Shortcut
+![Shortcut Example](https://github.com/vynvynvyn/Exium-Peek/blob/main/Images/example1.jpg?raw=true)
+
+### Automation
+![Automation Example](https://github.com/vynvynvyn/Exium-Peek/blob/main/Images/example2.jpg?raw=true)
+
+---
+
+## Download
+[Download Exium-Peek](https://www.icloud.com/shortcuts/725e656ef63e4486be4367b16e3725f2)
